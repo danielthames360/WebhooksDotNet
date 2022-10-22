@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj",
+  "FilePath": "d:\\projects\\.net\\webhooks\\TravelAgentWeb\\TravelAgentWeb.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "AirlineWeb",
+  "RootNamespace": "TravelAgentWeb",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
