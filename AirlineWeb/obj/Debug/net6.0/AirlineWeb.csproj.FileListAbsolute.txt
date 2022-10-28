@@ -25,3 +25,15 @@ D:\projects\.net\webhooks\AirlineWeb\obj\Debug\net6.0\refint\AirlineWeb.dll
 D:\projects\.net\webhooks\AirlineWeb\obj\Debug\net6.0\AirlineWeb.pdb
 D:\projects\.net\webhooks\AirlineWeb\obj\Debug\net6.0\AirlineWeb.genruntimeconfig.cache
 D:\projects\.net\webhooks\AirlineWeb\obj\Debug\net6.0\ref\AirlineWeb.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\AutoMapper.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Humanizer.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Npgsql.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\RabbitMQ.Client.dll

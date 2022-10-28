@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj": {}
+    "D:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj": {}
   },
   "projects": {
-    "d:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj": {
+    "D:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj",
+        "projectUniqueName": "D:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj",
         "projectName": "AirlineWeb",
-        "projectPath": "d:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj",
+        "projectPath": "D:\\projects\\.net\\webhooks\\AirlineWeb\\AirlineWeb.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "d:\\projects\\.net\\webhooks\\AirlineWeb\\obj\\",
+        "outputPath": "D:\\projects\\.net\\webhooks\\AirlineWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,10 +57,6 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[6.0.7, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
-              "target": "Package",
-              "version": "[1.1.0, )"
             },
             "RabbitMQ.Client": {
               "target": "Package",

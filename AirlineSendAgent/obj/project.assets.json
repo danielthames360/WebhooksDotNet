@@ -1868,11 +1868,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\projects\\.net\\webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
+      "projectUniqueName": "D:\\projects\\.net\\webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
       "projectName": "AirlineSendAgent",
-      "projectPath": "d:\\projects\\.net\\webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
+      "projectPath": "D:\\projects\\.net\\webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "d:\\projects\\.net\\webhooks\\AirlineSendAgent\\obj\\",
+      "outputPath": "D:\\projects\\.net\\webhooks\\AirlineSendAgent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1882,6 +1882,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
