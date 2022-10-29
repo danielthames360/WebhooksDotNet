@@ -37,3 +37,4 @@ D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Microsoft.Extensions.Depen
 D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Npgsql.dll
 D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\projects\.net\webhooks\AirlineWeb\bin\Debug\net6.0\AirlineWeb.staticwebassets.runtime.json

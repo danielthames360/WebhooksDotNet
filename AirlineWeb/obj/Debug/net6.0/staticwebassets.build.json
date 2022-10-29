@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "nHIF8hFJI7c/190lY1l3clbyj44rCvPjq1oxYTIBP/o=",
+  "Hash": "/onubAZgmOJ65n4OmG0EkgZQram2GrbSeJLPML78V/8=",
   "Source": "AirlineWeb",
   "BasePath": "_content/AirlineWeb",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "AirlineWeb\\wwwroot",
+      "Source": "AirlineWeb",
+      "ContentRoot": "D:\\projects\\.net\\webhooks\\AirlineWeb\\wwwroot\\",
+      "BasePath": "_content/AirlineWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\projects\\.net\\webhooks\\AirlineWeb\\wwwroot\\index.html",
+      "SourceId": "AirlineWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\projects\\.net\\webhooks\\AirlineWeb\\wwwroot\\",
+      "BasePath": "_content/AirlineWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }
