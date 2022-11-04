@@ -1,4 +1,5 @@
 using AirlineWeb.Data;
+using AirlineWeb.MessageBus;
 using AirlineWeb.Profiles;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,6 +19,8 @@ builder.Services.AddDbContext<AirlineDbContext>(options =>
 );
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+builder.Services.AddSingleton<IMessageBus, MessageBus>();
 
 var app = builder.Build();
 

@@ -1,8 +1,9 @@
 
-namespace TravelAgentWeb.Dtos
+namespace AirlineSendAgent.Dtos
 {
-    public class FlightDetailUpdateDto
+    public class FlightDetailChangePayloadDto
     {
+        public string WebhookURI { get; set; } = ""; 
         public string Publisher { get; set; } = "";
         public string Secret { get; set; } = "";
         public string FlightCode { get; set; } = "";
